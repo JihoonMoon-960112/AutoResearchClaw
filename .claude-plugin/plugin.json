@@ -1,0 +1,26 @@
+{
+  "name": "autoresearchclaw",
+  "description": "Autonomous scientific research agent skills",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiming-lab"
+  },
+  "license": "MIT",
+  "keywords": [
+    "research",
+    "science",
+    "autonomous",
+    "agent"
+  ],
+  "skills": [
+    "./.claude/skills/a-evolve",
+    "./.claude/skills/biology-biopython",
+    "./.claude/skills/chemistry-rdkit",
+    "./.claude/skills/hypothesis-formulation",
+    "./.claude/skills/literature-search",
+    "./.claude/skills/researchclaw",
+    "./.claude/skills/scientific-visualization",
+    "./.claude/skills/scientific-writing",
+    "./.claude/skills/statistical-reporting"
+  ]
+}
