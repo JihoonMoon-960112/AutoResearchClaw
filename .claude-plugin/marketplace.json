@@ -1,0 +1,23 @@
+{
+  "name": "autoresearchclaw",
+  "id": "autoresearchclaw",
+  "owner": {
+    "name": "aiming-lab"
+  },
+  "metadata": {
+    "description": "Autonomous scientific research agent skills",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "autoresearchclaw",
+      "source": "./",
+      "description": "9 core research skills",
+      "version": "1.0.0",
+      "author": {
+        "name": "aiming-lab"
+      },
+      "category": "research"
+    }
+  ]
+}
